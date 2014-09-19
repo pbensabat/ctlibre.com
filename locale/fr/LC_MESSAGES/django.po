@@ -72,7 +72,7 @@ msgid "by"
 msgstr "par"
 
 #: templates/pages/masthead.html:4
-msgid "Board of directors"
+#msgid "Board of directors"
 msgstr "Conseil d'administration"
 
 #: templates/pages/masthead.html:10
